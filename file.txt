@@ -1,0 +1,7 @@
+add ayb, 2
+l1: cmp ayb, 1
+sub ayb, 1
+je l2
+jmp l1
+l2: mov ayb, 2
+div ayb, 0

@@ -9,7 +9,7 @@ import javax.print.attribute.standard.MediaSize.NA;
 
 import memory.Registers;
 import arithmethic.ALU;
-import controler.CU;
+import controller.CU;
 import memory.RAM;
 
 public class CPU {    
